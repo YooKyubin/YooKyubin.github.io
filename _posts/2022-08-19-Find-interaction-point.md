@@ -8,17 +8,17 @@ comments: true
 
 
 # 교점의 좌표 구하기
-직선 $ax + by + e = 0$ 와, 직선 $cx + dy + f = 0$에 대하여 
-두 직선의 교점의 좌표를 구한다.
+직선 $ax + by + e = 0$ 와, 직선 $cx + dy + f = 0$에 대하여  
+두 직선의 교점의 좌표를 구한다.  
 
 $$
 ax + by + e = cx + dy + f
-$$
-식 전체를 a로 나누기
+$$  
+식 전체를 a로 나누기  
 $$
 x + \frac{b}{a}y + \frac{e}{a}  = \frac{c}{a}x + \frac{d}{a}y + \frac{f}{a}
-$$
-$x$에 대한 식으로 표현
+$$  
+$x$에 대한 식으로 표현  
 $$
 x(\frac{a-c}{a}) = y(\frac{d-b}{a}) + \frac{f-e}{a} 
 $$
