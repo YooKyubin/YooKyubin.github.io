@@ -1,13 +1,12 @@
-﻿
 ---
 layout: post
-published: true
 title: 교점의 좌표 구하기
-subtitle: 두 직선의 계수로 나타내는 교점의 좌표 구하기
-date: '2022-08-19'
-
+subtitle: 두 직선의 계수로 나타내는 교점의 좌표
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
 ---
-
 
 
 # 교점의 좌표 구하기
