@@ -21,7 +21,7 @@ $$
 $x$에 대한 식으로 표현  
 $$
 x(\frac{a-c}{a}) = y(\frac{d-b}{a}) + \frac{f-e}{a} 
-$$
+$$  
 
 $$
 x = y(\frac{d-b}{a-c}) + \frac{f-e}{a-c}
@@ -47,7 +47,7 @@ $$
 y=\frac{ce-af}{ad-bc}
 $$
 
-$y$를 수식 $ax + by + e=0$에 다시 대입하면
+$y$를 수식 $ax + by + e=0$ 에 다시 대입하면  
 $$
 ax + b\frac{ce-af}{ad-bc} + e=0
 $$
